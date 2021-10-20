@@ -3,5 +3,5 @@
 
 console.log("Hello Shinch_itachi !!!!!")  //first method directly printing it
 
-const name = "Shinchu_itachi"
+const name = "Shinchu_itachi"  // You can write any name here
 console.log(`Hello ${name}`) //second method using variable and template string and using ${variable} to print it
