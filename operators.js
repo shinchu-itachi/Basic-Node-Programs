@@ -26,6 +26,9 @@ console.log(`The division of ${a} and ${b} is ${c}`)
 c =  a % b
 console.log(`The remainder of ${a} divides ${b} is ${c}`)
 
+//simple console print showing pre increment and decrement
+console.log(`The Pre Increment of ${a} is ${++a} and Pre Decrement of ${b} is ${--b}`)
+
 //power function in javascript a^b
 
 c = a ** b
