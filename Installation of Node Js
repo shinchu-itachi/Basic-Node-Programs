@@ -1,0 +1,14 @@
+To install node js in your system :-
+1)Go through the link below and downlaod node js with matching specification to your respective system.
+https://nodejs.org/en/download/
+2) After downloading the node js further proceeed with install process follow next button and finally click to finish after installing.
+3)After the installation to check whether it's done properly 
+    - Open CMD , write command  node --version
+    if it shows the version of the node which you downloaded then it is done, you can carry on you work
+    else if it shows error go back and download it again
+4) After the successful completion of the above steps , 
+   - Open CMD again , write the command node hit enter
+   - then write a simple program for eg. console.log("Hello world!!") and hit enter and see the output 
+   
+   
+That is all now you can use youu favorite Text Editor and explore Node Js
